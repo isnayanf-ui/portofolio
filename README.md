@@ -158,9 +158,9 @@ isnaya/
 
 ```html
 <!-- Di index.html, cari: -->
-<img src="isnaya.png" alt="Aldy Ahmad">
+<img src="isnaya.png" alt="Isnaya Nurfadilla">
 <!-- Ganti dengan nama file Anda -->
-<img src="foto-anda.jpg" alt="Aldy Ahmad">
+<img src="foto-anda.jpg" alt="Isnaya Nurfadilla">
 ```
 
 **Rekomendasi**: 
