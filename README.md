@@ -1,4 +1,4 @@
-# Portfolio Website - Aldy Ahmad
+# Portfolio Website - Isnaya Nurfadilla
 
 Dokumentasi lengkap tentang website portfolio ini.
 
@@ -280,7 +280,7 @@ python -m http.server 8000
 
 ## Lisensi
 
-Copyright © 2026 Aldy Ahmad. All Rights Reserved.
+Copyright © 2026 Isnaya Nurfadilla. All Rights Reserved.
 
 ---
 
